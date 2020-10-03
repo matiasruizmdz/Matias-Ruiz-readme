@@ -5,7 +5,7 @@ Mail: matimalcomcarp@gmail.com
 
 ### Lenguajes y Herramientas:
 
-<p>
+<p justify-content="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg"></code>
