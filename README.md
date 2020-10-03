@@ -1,6 +1,6 @@
 # Hola mi nombre es Matias Ruiz 👋
 
-### Languages and Tools:
+### Lenguajes y Herramientas:
 
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
