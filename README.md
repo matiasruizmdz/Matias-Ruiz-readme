@@ -1,4 +1,4 @@
-# Hola mi nombre es Matias Ruiz 👋
+# Hola, mi nombre es Matias Ruiz 👋
 
 ### Lenguajes y Herramientas:
 
