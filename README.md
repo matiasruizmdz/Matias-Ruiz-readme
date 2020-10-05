@@ -7,7 +7,7 @@ Soy de Mendoza Argentina actualmente tengo 21 años, soy muy apasionado por el m
 🔗 https://www.linkedin.com/in/matias-ruiz-mdz/ 
 
 ### Lenguajes y Herramientas:
-
+<P>
 <p justify-content="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -27,3 +27,4 @@ Soy de Mendoza Argentina actualmente tengo 21 años, soy muy apasionado por el m
 </p>
 
 <p> HOLA </p>
+</P>
