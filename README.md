@@ -2,9 +2,9 @@
 
 Soy de Mendoza Argentina actualmente tengo 21 años, soy muy apasionado por el mundo de la tecnología y las finanzas.
 
-📫 Contact me: aszomoza@gmail.com
+📫 Contact me: matimalcomcarp@gmail.com
 
-🔗 https://www.linkedin.com/in/andrea-zomoza/ 
+🔗 https://www.linkedin.com/in/matias-ruiz-mdz/ 
 
 ### Lenguajes y Herramientas:
 
