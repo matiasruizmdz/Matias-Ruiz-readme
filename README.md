@@ -1,7 +1,9 @@
 # Hola, mi nombre es Matias Ruiz 👋
 
 Soy de Mendoza Argentina actualmente tengo 21 años, soy muy apasionado por el mundo de la tecnología y las finanzas.
-Mail: matimalcomcarp@gmail.com 
+📫 Contact me: aszomoza@gmail.com
+
+🔗 https://www.linkedin.com/in/andrea-zomoza/ 
 
 ### Lenguajes y Herramientas:
 
