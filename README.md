@@ -2,22 +2,6 @@
 
 Soy de Mendoza Argentina actualmente tengo 21 años, soy muy apasionado por el mundo de la tecnología y las finanzas.
 
-const MatiasRuiz = {
-  Skills: {
-      BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'Passport']},
-          {Python: ['Flask']}
-        ],
-      FrontEnd: [
-          {JavaScript: ['React', 'React-Native', 'Redux']}
-        ]
-    },
-  Proyects: [
-      {BankAppMe: ['React-Native', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']},
-      {BackToThe90s: ['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
-    ],
-}
-
 📫 Contact me: matimalcomcarp@gmail.com
 
 🔗 https://www.linkedin.com/in/matias-ruiz-mdz/ 
