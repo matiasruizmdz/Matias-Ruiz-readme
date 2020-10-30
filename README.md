@@ -6,7 +6,6 @@ Soy de Mendoza Argentina actualmente tengo 21 años, soy muy apasionado por el m
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matias-ruiz-mdz)
 
 
-🔗 https://www.linkedin.com/in/matias-ruiz-mdz/ 
 
 ### Lenguajes y Herramientas:
 
@@ -27,4 +26,6 @@ Soy de Mendoza Argentina actualmente tengo 21 años, soy muy apasionado por el m
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-official.svg"></code>
 </p>
+
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=matiasruizmdz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><!-- wi*quL3fcV --><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielPenna&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
