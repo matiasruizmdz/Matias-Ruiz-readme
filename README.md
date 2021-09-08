@@ -1,6 +1,6 @@
 # Hola, Mi nombre es Matias Ruiz 👋
 
-Soy de Mendoza Argentina actualmente tengo 21 años, soy muy apasionado por el mundo de la tecnología y las finanzas.
+Soy de Mendoza Argentina actualmente tengo 22 años, soy muy apasionado por el mundo de la tecnología y las finanzas.
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matimalcomcarp@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matias-ruiz-mdz)
